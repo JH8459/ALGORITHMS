@@ -8,7 +8,7 @@ public class Main {
         int n = Integer.parseInt(br.readLine());
 
         /*
-         * 시간복잡도 O(n)
+         * 시간복잡도 O(1)
          * 
          * MenOfPassion(A[], n) {
          * i = ⌊n / 2⌋;
