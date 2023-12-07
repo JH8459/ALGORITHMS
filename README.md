@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
-<p>👆👆👆</p>
 </div>
 
 # 목표 🎯
