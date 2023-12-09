@@ -18,7 +18,7 @@
 
 ## 참고 서적
 
-- Do it! 알고리즘 코딩 테스트 - 자바 편
+- <a href="https://product.kyobobook.co.kr/detail/S000001818060" target="_blank">Do it! 알고리즘 코딩 테스트 - 자바 편</a>
 
 
 
