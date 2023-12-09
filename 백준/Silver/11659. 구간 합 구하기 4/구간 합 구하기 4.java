@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Main {
     public static void main(String args[]) throws IOException {
@@ -9,7 +9,10 @@ public class Main {
          * 합 배열을 이용하여 시간 복잡도 개선 O(n) => O(1)
          */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine()); // StringTokenizer 클래스 => 문자열을 지정한 구분자로 문자열을 쪼개주는 클래스
+                                                                 // new StringTokenizer(문자열, 구분자)
+                                                                 // 구분자 전달인자가 없을 경우 " "(띄어쓰기) 구분으로 쪼갠다
+                                                                 // split으로 사용하니 시간초과 => StringTokenizer 클래스 사용
 
         int n = Integer.parseInt(st.nextToken()); // 줄에 수의 갯수 N
         int m = Integer.parseInt(st.nextToken()); // 합을 구해야 하는 횟수 M
