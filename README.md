@@ -2,7 +2,7 @@
 <a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
 </div>
 
-# 목표 🎯
+## 목표 🎯
 
 <details>
   <summary>🆙 알고리즘 문제 풀이 과정을 겪으며 개발자로써 능력 향상을 목표로 합니다.</summary>
