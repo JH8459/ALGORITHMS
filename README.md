@@ -15,21 +15,22 @@
 <details>
   <summary>📝 해결 과정이 어려웠던 문제 풀이는 블로그 포스팅으로 남깁니다.</summary>
   
-  - ##### <a href="https://blog.jh8459.com/2023-12-09-TIL/" target="_blank">백준 11659번 - 구간 합 구하기 4<a><br><br>
+  - ##### <a href="https://blog.jh8459.com/2023-12-09-TIL/" target="_blank">백준 11659번 - 구간 합 구하기 4<a>
+  - ##### <a href="https://blog.jh8459.com/2023-12-13-TIL/" target="_blank">백준 1874번 - 스택 수열<a><br><br>
 </details>
 
 <br>
 
 ## 참고 사이트 💻
 
-- <a href="https://www.acmicpc.net/" target="_blank">백준</a>
-- <a href="https://programmers.co.kr/" target="_blank">프로그래머스</a>
+- ##### <a href="https://www.acmicpc.net/" target="_blank">백준</a>
+- ##### <a href="https://programmers.co.kr/" target="_blank">프로그래머스</a>
 
 <br>
 
 ## 참고 서적 📖
 
-- <a href="https://product.kyobobook.co.kr/detail/S000001818060" target="_blank">Do it! 알고리즘 코딩 테스트 - 자바 편</a>
+- ##### <a href="https://product.kyobobook.co.kr/detail/S000001818060" target="_blank">Do it! 알고리즘 코딩 테스트 - 자바 편</a>
 
 
 
