@@ -16,7 +16,8 @@
   <summary>📝 해결 과정이 어려웠던 문제 풀이는 블로그 포스팅으로 남깁니다.</summary>
   
   ##### <a href="https://blog.jh8459.com/2023-12-09-TIL/" target="_blank">백준 11659번 - 구간 합 구하기 4<a>
-  ##### <a href="https://blog.jh8459.com/2023-12-13-TIL/" target="_blank">백준 1874번 - 스택 수열<a><br><br>
+  ##### <a href="https://blog.jh8459.com/2023-12-13-TIL/" target="_blank">백준 1874번 - 스택 수열<a>
+  ##### <a href="https://blog.jh8459.com/2023-12-26-TIL/" target="_blank">백준 2573번 - 빙산<a><br><br>
 </details>
 
 <br>
