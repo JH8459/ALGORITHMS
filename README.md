@@ -33,5 +33,13 @@
 
   ##### <a href="https://product.kyobobook.co.kr/detail/S000001818060" target="_blank">Do it! 알고리즘 코딩 테스트 - 자바 편</a>
 
+<br>
+
+## 학습 후기들 🤔
+
+  ##### <a href="https://blog.jh8459.com/2023-12-30-RETROSPECT/" target="_blank">백준 골드🏅 달성 후기</a>
+
+<br>
+
 
 
