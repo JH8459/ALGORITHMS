@@ -12,13 +12,15 @@ public class Main {
     int m = 1234567891;
 
     long hash = 0;
+    long pow = 1;
     String s = br.readLine();
 
     for(int i = 0; i < l; i++){
-      hash += (s.charAt(i) - 96) * (long) Math.pow(r, i);
+      hash += (s.charAt(i) - 96) * pow;
+      pow = (pow * r) % m;
     }
 
-    bw.write(hash + "\n");
+    bw.write(hash % m + "\n");
     bw.flush();
     bw.close();
   }
