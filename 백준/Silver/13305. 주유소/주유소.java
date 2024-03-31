@@ -7,8 +7,8 @@ public class Main {
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     int n = Integer.parseInt(br.readLine());
-    int[] distanceArr = new int[n - 1];
-    int[] priceArr = new int[n];
+    long[] distanceArr = new long[n - 1];
+    long[] priceArr = new long[n];
 
     StringTokenizer st = new StringTokenizer(br.readLine());
 
@@ -22,11 +22,11 @@ public class Main {
       priceArr[i] = Integer.parseInt(st.nextToken());
     }
 
-    int result = 0;
+    long result = 0;
 
     for(int i = 0; i < n - 1; i++){
-      int price = priceArr[i];
-      int distance = 0;
+      long price = priceArr[i];
+      long distance = 0;
 
       for(int j = i + 1; j < n; j++){
         distance += distanceArr[i];
