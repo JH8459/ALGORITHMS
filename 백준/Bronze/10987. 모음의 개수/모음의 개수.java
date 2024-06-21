@@ -22,29 +22,9 @@ public class Main {
   }
 
   public static boolean isCheckAlphabet (char ch) {
-      boolean isVowel;
-
-      switch (ch){
-        case 'a':
-          isVowel = true;
-          break;
-        case 'e':
-          isVowel = true;
-          break;
-        case 'i':
-          isVowel = true;
-          break;
-        case 'o':
-          isVowel = true;
-          break;
-        case 'u':
-          isVowel = true;
-          break;
-        default:
-          isVowel = false;
-          break;
-      }
-
-    return isVowel;
+      return switch (ch) {
+        case 'a', 'e', 'i', 'o', 'u' -> true;
+        default -> false;
+      };
   }
 }
