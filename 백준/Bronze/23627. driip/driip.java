@@ -7,7 +7,7 @@ public class Main {
 
     String s = br.readLine();
 
-    if(s.length() > 5 && s.substring(s.length() - 5).equals("driip")){
+    if(s.length() > 5 && s.endsWith("driip")){
       bw.write("cute\n");
     } else {
       bw.write("not cute\n");
