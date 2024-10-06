@@ -14,7 +14,6 @@ rl.on('line', function (line) {
     
     let result = '';
     
-    
     for(let i = 0; i < n; i++){
         result += str;
     }
