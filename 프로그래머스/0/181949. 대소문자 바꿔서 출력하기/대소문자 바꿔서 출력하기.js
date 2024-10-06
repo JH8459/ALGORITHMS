@@ -5,18 +5,21 @@ const rl = readline.createInterface({
 });
 
 let input = [];
-let result = '';
 
 rl.on('line', function (line) {
     input = [line];
 }).on('close',function(){
     str = input[0];
     
+    let result = '';
+    
     for(let i = 0; i < str.length; i++){
-        if(str.charAt(i).charCodeAt() >= 97){
-            result += str.charAt(i).toUpperCase();
+        const ch = str[i];
+        
+        if(ch.charCodeAt() >= 97){
+            result += ch.toUpperCase();
         } else {
-            result += str.charAt(i).toLowerCase();
+            result += ch.toLowerCase();
         }
     }
     
