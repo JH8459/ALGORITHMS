@@ -5,18 +5,11 @@ const rl = readline.createInterface({
 });
 
 let input = [];
-let isEven = '';
 
 rl.on('line', function (line) {
     input = line.split(' ');
 }).on('close', function () {
     n = Number(input[0]);
     
-    if(n % 2){
-        isEven = 'odd';
-    } else {
-        isEven = 'even';
-    }
-    
-    console.log(n + " is " + isEven);
+    console.log(n % 2 ? n + " is odd" : n + " is even");
 });
