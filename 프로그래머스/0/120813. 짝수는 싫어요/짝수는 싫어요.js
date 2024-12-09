@@ -1,11 +1,7 @@
 function solution(n) {
-    const oddList = [];
+    const answer = Array.from({ length: Math.ceil(n / 2) }, (_, i) => {
+        return (i * 2) + 1;
+    });
     
-    for(let i = 1; i <= n; i++){
-        if(i % 2 === 1){
-            oddList.push(i);
-        }
-    }
-    
-    return oddList;
+    return answer;
 }
