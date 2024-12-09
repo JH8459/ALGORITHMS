@@ -1,29 +1,18 @@
 function solution(array) {
-    const map = {};
+    const map = new Map();
     
-    for (let i = 0; i < array.length; i++) {
-        let num = array[i];
-        
-        if (!map[num]) {
-            map[num] = 1;
+    array.forEach((num) => {
+        if(map.get(num) > 0){
+            map.set(num, +map.get(num) + 1);    
         } else {
-            map[num]++;
+            map.set(num, 1);
         }
-    }
+    });
     
-    let maxFrequency = 0;
-    let mode = -1;
-    let isDuplicate = false;
+    const frequencySortedArr = [...map].sort((a, b) => b[1] - a[1]);
     
-    for (let key in map) {
-        if (map[key] > maxFrequency) {
-            maxFrequency = map[key];
-            mode = Number(key);
-            isDuplicate = false;
-        } else if (map[key] === maxFrequency) {
-            isDuplicate = true;
-        }
-    }
+    const maxFreq = frequencySortedArr[0][1];
+    const maxFreqArr = frequencySortedArr.filter((el) => el[1] === maxFreq);
     
-    return isDuplicate ? -1 : mode;
+    return maxFreqArr.length > 1 ? -1 : maxFreqArr[0][0];
 }
