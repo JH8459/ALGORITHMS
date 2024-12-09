@@ -1,5 +1,5 @@
 function solution(array) {
-    array.sort((a, b) => a - b);
+    const answer = array.sort((a, b) => a - b);
     
-    return array[Math.floor(array.length / 2)];
+    return answer[Math.floor(answer.length / 2)];
 }
