@@ -1,5 +1,12 @@
 <div align="center">
-<a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
+      <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_mini.svg"/>
+    </a>
+    <a href="https://solved.ac/profile/wjd5588" target="_blank">
+      <a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
+    </a>
+  </div>
 </div>
 
 ## 목표 🎯
