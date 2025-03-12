@@ -37,7 +37,13 @@
 
   #### 프로그래머스
   ---
-  - <a href="https://blog.jh8459.com/2024-12-09-TIL/" target="_blank">프로그래머스 - 그림확대 (JavaScript)</a>
+  - <a href="https://blog.jh8459.com/2024-12-09-TIL/" target="_blank">프로그래머스 - 그림확대 (JS)</a>
+  - <a href="https://blog.jh8459.com/2025-03-12-TIL/" target="_blank">프로그래머스 - 명예의 전당 (1) (JS)</a>
+  <br>
+
+  #### LeetCode
+  ---
+  - <a href="https://blog.jh8459.com/2025-03-11-TIL/" target="_blank">LeetCode 876번 - Middle of the Linked List (JS)</a>
   <br>
 </details>
 
@@ -47,7 +53,7 @@
 
   - <a href="https://www.acmicpc.net/" target="_blank">백준</a>
   - <a href="https://programmers.co.kr/" target="_blank">프로그래머스</a>
-  - <a href="https://leetcode.com/" target="_blank">리트코드</a>
+  - <a href="https://leetcode.com/" target="_blank">LeetCode</a>
 
   
 
