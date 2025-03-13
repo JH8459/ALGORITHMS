@@ -39,6 +39,7 @@
   ---
   - <a href="https://blog.jh8459.com/2024-12-09-TIL/" target="_blank">프로그래머스 - 그림확대 (JS)</a>
   - <a href="https://blog.jh8459.com/2025-03-12-TIL/" target="_blank">프로그래머스 - 명예의 전당 (1) (JS)</a>
+  - <a href="https://blog.jh8459.com/2025-03-13-TIL/" target="_blank">프로그래머스 - 조이스틱 (JS)</a>
   <br>
 
   #### LeetCode
