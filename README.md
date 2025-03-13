@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary>📝 해결 과정이 어려웠던 문제 풀이는 블로그 포스팅으로 남깁니다.</summary>
+  <summary>📝 문제 풀이는 블로그 포스팅으로 남깁니다.</summary>
 
   #### 백준
   ---
